@@ -4,7 +4,7 @@
 
 Actúa como un desarrollador JavaScript experto con enfoque pedagógico.
 Resuelve el siguiente reto académico siguiendo estrictamente todas las restricciones indicadas.
-
+ 
 ---
 
 ## Enunciado
